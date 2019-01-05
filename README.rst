@@ -6,11 +6,15 @@ This is a repository for wlan-si web-page docker, it contains:
 -  Web container for: django, uwgsi, nginx
 -  Database container with postgresql
 
-Installation
+Requirements
 ------------
 
-Mainpage requires `docker <https://www.docker.com/>`__ and
-`docker-compose <https://docs.docker.com/compose/>`__ to run.
+- Linux platform
+- Mainpage requires `docker <https://www.docker.com/>`__ and `docker-compose <https://docs.docker.com/compose/>`__ to run.
+- Git
+
+Installation
+------------
 
 Download the repository to disk and run docker-compose build.
 
